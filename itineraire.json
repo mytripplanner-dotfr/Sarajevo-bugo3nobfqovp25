@@ -1,0 +1,115 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "🕌",
+  "titre": "Sarajevo: Détente et Histoire au Cœur des Balkans",
+  "budget_total": "650 €",
+  "duree": "4 jours",
+  "temps_vol": "2h20 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Sarajevo",
+      "legende": "Après votre vol, installez-vous et plongez délicatement dans l'atmosphère unique de Sarajevo, entre histoire et modernité, avec une première balade relaxante dans le cœur historique.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🛬 <strong>Arrivée à Sarajevo</strong>: Atterrissage à l'aéroport international de Sarajevo (SJJ) et transfert vers votre hébergement au cœur de la ville.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir dans votre hôtel 3 étoiles, idéalement situé pour explorer la ville à pied.",
+        "🚶‍♂️ <strong>Première balade dans Baščaršija</strong>: Flânez dans le vieux quartier ottoman, admirez la fontaine Sebilj et imprégnez-vous de l'ambiance paisible des bazars."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre-ville de Sarajevo est très compact et se prête parfaitement à l'exploration à pied. Les transports en commun sont également efficaces."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌳",
+      "titre": "Immersion culturelle et pause bien-être",
+      "legende": "Explorez les richesses historiques de Sarajevo avant de vous offrir un moment de pure détente dans un cadre naturel apaisant, loin de l'agitation urbaine.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🏛️ <strong>Visite du Musée National de Bosnie-Herzégovine</strong>: Découvrez l'histoire fascinante et la diversité culturelle du pays à travers ses collections archéologiques, ethnographiques et naturelles.",
+        "🌳 <strong>Promenade au Parc Vrelo Bosne</strong>: Évadez-vous dans ce magnifique parc naturel, source de la rivière Bosna. Profitez d'une balade relaxante au milieu de la verdure et des cascades, idéal pour se ressourcer.",
+        "☕ <strong>Pause café bosnien</strong>: Savourez un café traditionnel dans un des nombreux cafés de Baščaršija, une expérience culturelle à part entière."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport vers Vrelo Bosne",
+          "texte": "Prenez un tramway jusqu'à Ilidža, puis une calèche ou marchez jusqu'à l'entrée du parc. C'est une expérience locale charmante et relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🕊️",
+      "titre": "Traces du passé et vues imprenables",
+      "legende": "Plongez dans l'histoire poignante de Sarajevo et terminez la journée par des vues panoramiques apaisantes sur la ville, offrant un moment de contemplation.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🕊️ <strong>Visite du Tunnel de l'Espoir</strong>: Explorez ce site émouvant qui témoigne de la résilience de Sarajevo pendant le siège. Une expérience historique marquante et nécessaire pour comprendre la ville.",
+        "🚶‍♀️ <strong>Balade sur la Colline de Žuta Tabija (Forteresse Jaune)</strong>: Montez jusqu'à cette forteresse pour profiter d'une vue panoramique spectaculaire sur Sarajevo, particulièrement belle au coucher du soleil.",
+        "🍽️ <strong>Dîner avec vue</strong>: Terminez la journée par un dîner dans un restaurant offrant une vue imprenable sur la ville illuminée, pour une ambiance sereine."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Sensibilité historique",
+          "texte": "La visite du Tunnel de l'Espoir peut être émotionnellement intense. Prévoyez du temps pour la réflexion après cette expérience."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers souvenirs et départ",
+      "legende": "Profitez de vos dernières heures pour quelques emplettes ou une dernière balade avant de prendre votre vol retour, la tête pleine de souvenirs et de moments de détente.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🛍️ <strong>Shopping de souvenirs à Baščaršija</strong>: Achetez des objets artisanaux, du café bosnien ou des délices locaux comme souvenirs de votre voyage.",
+        "☕ <strong>Dernier café bosnien</strong>: Savourez un dernier café dans votre endroit préféré ou découvrez un nouveau café pour une ultime immersion dans l'ambiance locale.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour</strong>: Départ de Sarajevo, emportant avec vous les images et les sensations de cette ville résiliente et accueillante."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Heure de départ",
+          "texte": "Adaptez les activités du matin en fonction de l'heure de votre vol retour pour un départ serein et sans stress."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 239 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (trams, bus, taxis)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 140 €/pers (35 €/jour pour 3 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (60 €/nuit en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (musées, parcs, tunnel)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures au printemps et en automne varient entre 10 et 25°C. Prévoir des couches de vêtements et un imperméable.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Mark convertible (BAM). Les cartes de crédit sont acceptées, mais prévoyez du liquide pour les petits commerces et marchés.", "symbole": "💳" },
+    { "titre": "La langue officielle est le bosnien, le croate et le serbe. L'anglais est généralement parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type F (européen). L'eau du robinet est potable dans la plupart des régions.", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SJJ/2025-09-15/2025-09-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Sarajevo", "url": "https://sarajevo.travel/en", "symbole": "📘" },
+    { "legende": "Se déplacer à Sarajevo", "titre": "Guide transports", "url": "https://www.lonelyplanet.com/bosnia-and-herzegovina/sarajevo/getting-around", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Sarajevo", "url": "https://www.accuweather.com/fr/ba/sarajevo/300020/weather-forecast/300020", "symbole": "🌤️" }
+  ]
+}
